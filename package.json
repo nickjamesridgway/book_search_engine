@@ -20,7 +20,9 @@
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "apollo-server-express": "^2.19.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "nodemon": "^2.0.15",
+    "update": "^0.7.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
