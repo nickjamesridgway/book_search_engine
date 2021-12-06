@@ -14,6 +14,8 @@ MongoDB
 GraphQL
 Express
 Node
+npm i
+npm start
 # Description
 A book search engine.
 # Usage
